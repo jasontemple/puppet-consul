@@ -4,6 +4,8 @@
 [![Puppet Forge](https://img.shields.io/puppetforge/v/KyleAnderson/consul.svg)](https://forge.puppetlabs.com/KyleAnderson/consul)
 [![Puppet Forge](https://img.shields.io/puppetforge/f/KyleAnderson/consul.svg)](https://forge.puppetlabs.com/KyleAnderson/consul)
 
+http://txt.fliglio.com/2014/10/consul-with-puppet/
+
 ## Compatibility
 
 | Consul Version   | Recommended Puppet Module Version   |
